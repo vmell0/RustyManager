@@ -1,13 +1,9 @@
-# RustyManager
-
-**RustyManager** é um gerenciador de usuários SSH leve e eficiente, desenvolvido em Rust. Com ele, você pode criar, remover e administrar usuários SSH de forma simples e segura.
-
 ## Instalação
 
 Para instalar o RustyManager, execute o seguinte comando no seu terminal:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/UlekBR/RustyManager/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/vmell0/RustyManager/refs/heads/main/install.sh)
 ```
 
 Após a instalação, você pode iniciar o gerenciador executando o comando:
@@ -55,9 +51,3 @@ Gera um relatório de usuários cujo acesso expirou.
 
 - **`--userdata <user>`**  
   Retorna os dados de um usuario.
-
-## Grupo de atualizações
-https://t.me/rustymanager
-
-## Suporte
-https://t.me/rustymanagergroup
